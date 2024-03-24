@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gauri Chandar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-👀 I’m currently exploring and doing internship in AI.<br><br>🌱 I’m looking to collaborate on MERN Projects.<br>
+🌱 I’m looking to collaborate on MERN Projects.<br>
 
 
 ## 🌐 Connect with me:
